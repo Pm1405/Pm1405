@@ -21,7 +21,8 @@ I’ve also built and contributed to multiple projects during my academics — i
 |---------------- |----------------------------------------------------|
 | Languages       | Python, Java, SQL, JavaScript                      |
 | Web Dev         | HTML, CSS, JS, Flask                               |
-| Data Analysis   | Power BI, Excel (Pivot Tables, Formulas), Pandas   |
+| Data Analysis   | Power BI, Excel (Pivot Tables, Formulas),          |
+|                 |  Pandas & Numpy                                    |
 | Database        | MySQL, MongoDB                                     |
 | Others          | Git, GitHub, DBMS concepts, basic OOP              |
 
